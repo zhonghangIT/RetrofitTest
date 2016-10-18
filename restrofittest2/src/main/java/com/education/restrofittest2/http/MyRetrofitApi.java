@@ -23,6 +23,7 @@ import retrofit2.http.Url;
 
 public interface MyRetrofitApi {
     /**
+     *
      * 访问新闻的接口
      *
      * @param params 接受的参数是 id新闻的分类 plat设备名称 version当前版本号 page分页
